@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building a comprehensive QA training documentation repository and enhancing my skills in manual and automated testing.<br><br>👯 I’m looking to collaborate on:<br>Open-source QA projects, creating test automation frameworks, and improving testing strategies for real-world applications.<br><br>🌱 I’m currently learning:<br>Manual and automated testing, Selenium, JIRA, Agile methodologies, and writing effective test cases and bug reports.<br><br>💬 Ask me about:<br>Starting a career in QA, documenting QA processes effectively, or transitioning from manual to automated testing.<br><br>⚡ Fun fact:<br>I find bugs in apps faster than I can find matching socks in the morning!
+🔭 I’m currently working on:<br>Building a comprehensive QA training documentation repository and enhancing my skills in manual and automated testing.<br><br>👯 I’m looking to collaborate on:<br>Open-source QA projects, creating test automation frameworks, and improving testing strategies for real-world applications.<br><br>🌱 I’m currently learning:<br>Manual and automated testing, Selenium, JIRA, Agile methodologies, and writing effective test cases and bug reports.<br><br>⚡ Fun fact:<br>I find bugs in apps faster than I can find matching socks in the morning!
 
 
 ## 🌐 Socials:
